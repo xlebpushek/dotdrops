@@ -1,0 +1,11 @@
+# /dev/nvme0n1p4
+UUID=9e9570ea-b5b6-41d6-aba8-31a5084f27bb    /    ext4    rw,relatime    0 1
+
+# /dev/nvme0n1p1
+UUID=F02A-B51F    /boot    vfat    rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro    0 2
+
+# dev/nvme0n1p5
+UUID=44D8C825D8C81758    /secondary    ntfs-3g    uid=xlebpushek,gid=users,umask=0022    0 0
+
+# swapfile
+/swapfile    none    swap    default    0 0
